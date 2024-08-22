@@ -1,6 +1,6 @@
 # neural_network
 ---
-neural network: [In python](/)
+neural network: [In python](https://github.com/mdriyadkhan585/neural_network_python)
 ---
 
 # Neural Network and Run Inference Documentation
