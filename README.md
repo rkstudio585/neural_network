@@ -2,9 +2,6 @@
 ---
 neural network: [In python](/)
 ---
-Certainly! Below is a detailed and user-friendly documentation for both `neural_network.c` and `run_inference.c`, including explanations of each function, how to run the programs, and other essential information.
-
----
 
 # Neural Network and Run Inference Documentation
 
