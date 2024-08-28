@@ -2,7 +2,14 @@
 ---
 neural network: [In python](https://github.com/mdriyadkhan585/neural_network_python)
 ---
+### Download Commands
 
+
+```bash
+git clone https://github.com/mdriyadkhan585/neural_network
+```
+
+---
 # Neural Network and Run Inference Documentation
 
 ## Overview
@@ -47,6 +54,7 @@ Ensure that you have the `neural_network.c` file ready. This file contains the c
 Open a terminal and navigate to the directory where `neural_network.c` is located. Compile the source code using the following command:
 
 ```sh
+cd neural_network
 gcc -o neural_network neural_network.c -lm
 ```
 
